@@ -47,6 +47,7 @@ ScriptedImporter:
     flipbookRows: 0
     flipbookColumns: 0
     ignorePngGamma: 0
+    cookieMode: 0
     filterMode: 1
     aniso: 1
     mipBias: 0
@@ -89,6 +90,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: Frontguard
@@ -111,7 +113,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -717, y: 539}
+    uvTransform: {x: 4, y: 569}
+    spritePosition: {x: 721, y: 30}
   - name: Wheel_3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -132,7 +135,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -212, y: 569}
+    uvTransform: {x: 376, y: 569}
+    spritePosition: {x: 588, y: 0}
   - name: Wheel_2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -153,7 +157,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 101, y: 569}
+    uvTransform: {x: 522, y: 569}
+    spritePosition: {x: 421, y: 0}
   - name: Wheel_1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -174,7 +179,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -27, y: 565}
+    uvTransform: {x: 229, y: 569}
+    spritePosition: {x: 256, y: 4}
   - name: Supportpanel
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -195,7 +201,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -267, y: 359}
+    uvTransform: {x: 4, y: 480}
+    spritePosition: {x: 271, y: 121}
   - name: Chimney
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -216,7 +223,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -614, y: 335}
+    uvTransform: {x: 4, y: 717}
+    spritePosition: {x: 618, y: 382}
   - name: Engine shades Copy
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -237,7 +245,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -230, y: -42}
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 234, y: 46}
   - name: Layer 3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -258,7 +267,8 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 634, y: -129}
+    uvTransform: {x: 634, y: 4}
+    spritePosition: {x: 0, y: 133}
   characterData:
     bones: []
     parts: []

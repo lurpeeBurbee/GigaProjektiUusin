@@ -1,0 +1,14 @@
+Start on scene "Loading".
+
+Scene "Loading" loads the scene "MainMenu" on start.
+
+You can see what's happening in TimeLine: Window -> Sequencing -> Timeline 
+
+When you are done playing, press the button: I'm ready to leave.
+
+1) Add "I'm ready to leave"-function into finishing calculations.
+
+2) Fix the background visibility
+
+3) Optional Particle effect "Train steam"
+

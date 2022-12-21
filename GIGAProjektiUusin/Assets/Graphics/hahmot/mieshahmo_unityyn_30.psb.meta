@@ -47,6 +47,7 @@ ScriptedImporter:
     flipbookRows: 0
     flipbookColumns: 0
     ignorePngGamma: 0
+    cookieMode: 0
     filterMode: 1
     aniso: 1
     mipBias: 0
@@ -89,6 +90,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: paitaetu Copy
@@ -99,7 +101,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 4
-      y: 447
+      y: 4
       width: 160
       height: 211
     spriteID: 2c08f049ff4c859419a8f1ff180f7f01
@@ -1727,7 +1729,8 @@ ScriptedImporter:
     - {x: 136, y: 137}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -72, y: 177}
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: -324, y: 174}
   - name: paaetu Copy
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1735,8 +1738,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 4
-      y: 666
+      x: 345
+      y: 319
       width: 105
       height: 302
     spriteID: 8005e2813664c4644a410c34c7b53e66
@@ -2904,7 +2907,8 @@ ScriptedImporter:
     - {x: 96, y: 97}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -83, y: 385}
+    uvTransform: {x: 345, y: 319}
+    spritePosition: {x: 87, y: 174}
   - name: vasenkasietu Copy
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2912,8 +2916,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 175
-      y: 257
+      x: 726
+      y: 319
       width: 113
       height: 246
     spriteID: 50a1469261db09049a74cf7d0d6902e3
@@ -4420,7 +4424,8 @@ ScriptedImporter:
     - {x: 115, y: 116}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 27, y: 36}
+    uvTransform: {x: 726, y: 319}
+    spritePosition: {x: 148, y: 221}
   - name: oikeekasietu Copy
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -4428,7 +4433,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 175
+      x: 796
       y: 4
       width: 114
       height: 245
@@ -5915,7 +5920,8 @@ ScriptedImporter:
     - {x: 114, y: 115}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 140, y: -218}
+    uvTransform: {x: 796, y: 4}
+    spritePosition: {x: 35, y: 222}
   - name: JALAT Copy
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -5924,7 +5930,7 @@ ScriptedImporter:
     rect:
       serializedVersion: 2
       x: 4
-      y: 4
+      y: 319
       width: 163
       height: 435
     spriteID: 477779fafb35c8846bf67a52862e7a41
@@ -9018,7 +9024,8 @@ ScriptedImporter:
     - {x: 266, y: 267}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -69, y: -2}
+    uvTransform: {x: 4, y: 319}
+    spritePosition: {x: 73, y: -26}
   characterData:
     bones:
     - name: oikeehabaluu
@@ -9311,7 +9318,7 @@ ScriptedImporter:
     parentIndex: 6
     spriteID: 2c08f049ff4c859419a8f1ff180f7f01
     layerID: 15
-    mosaicPosition: {x: 4, y: 447}
+    mosaicPosition: {x: 4, y: 4}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -9321,7 +9328,7 @@ ScriptedImporter:
     parentIndex: 6
     spriteID: 8005e2813664c4644a410c34c7b53e66
     layerID: 14
-    mosaicPosition: {x: 4, y: 666}
+    mosaicPosition: {x: 345, y: 319}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -9331,7 +9338,7 @@ ScriptedImporter:
     parentIndex: 6
     spriteID: 50a1469261db09049a74cf7d0d6902e3
     layerID: 13
-    mosaicPosition: {x: 175, y: 257}
+    mosaicPosition: {x: 726, y: 319}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -9341,7 +9348,7 @@ ScriptedImporter:
     parentIndex: 6
     spriteID: bf82ad57112c79a4780c0f918dcaf851
     layerID: 12
-    mosaicPosition: {x: 175, y: 4}
+    mosaicPosition: {x: 796, y: 4}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -9351,7 +9358,7 @@ ScriptedImporter:
     parentIndex: 6
     spriteID: 477779fafb35c8846bf67a52862e7a41
     layerID: 11
-    mosaicPosition: {x: 4, y: 4}
+    mosaicPosition: {x: 4, y: 319}
     flatten: 0
     isImported: 1
     isVisible: 1

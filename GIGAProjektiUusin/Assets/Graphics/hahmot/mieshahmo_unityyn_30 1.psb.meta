@@ -47,6 +47,7 @@ ScriptedImporter:
     flipbookRows: 0
     flipbookColumns: 0
     ignorePngGamma: 0
+    cookieMode: 0
     filterMode: 1
     aniso: 1
     mipBias: 0
@@ -89,6 +90,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: paitataka
@@ -98,8 +100,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 171
-      y: 4
+      x: 4
+      y: 376
       width: 153
       height: 230
     spriteID: e47a7276c68ac19409df772d3fe0c967
@@ -1687,7 +1689,8 @@ ScriptedImporter:
     - {x: 136, y: 137}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 87, y: -265}
+    uvTransform: {x: 4, y: 376}
+    spritePosition: {x: 84, y: 172}
   - name: paataka
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1695,7 +1698,7 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 332
+      x: 738
       y: 4
       width: 158
       height: 204
@@ -2514,7 +2517,8 @@ ScriptedImporter:
     - {x: 66, y: 67}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 223, y: -375}
+    uvTransform: {x: 738, y: 4}
+    spritePosition: {x: 109, y: 379}
   - name: oikeekasitaka
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2522,8 +2526,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 171
-      y: 242
+      x: 406
+      y: 376
       width: 119
       height: 249
     spriteID: 82b2780a7e1fc0a41accb0cc4eaa4dcf
@@ -4113,7 +4117,8 @@ ScriptedImporter:
     - {x: 118, y: 119}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 18, y: 6}
+    uvTransform: {x: 406, y: 376}
+    spritePosition: {x: 153, y: 236}
   - name: vasenkasitaka
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -4121,8 +4126,8 @@ ScriptedImporter:
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
-      x: 332
-      y: 216
+      x: 533
+      y: 376
       width: 117
       height: 250
     spriteID: fd3589e7ce4869e41acac841bf10b6ae
@@ -5621,7 +5626,8 @@ ScriptedImporter:
     - {x: 117, y: 118}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 293, y: -11}
+    uvTransform: {x: 533, y: 376}
+    spritePosition: {x: 39, y: 227}
   - name: jalataka
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -8669,7 +8675,8 @@ ScriptedImporter:
     - {x: 261, y: 262}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: -83, y: 4}
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: -78, y: -49}
   characterData:
     bones:
     - name: paitaluu2
@@ -8902,7 +8909,7 @@ ScriptedImporter:
     parentIndex: 0
     spriteID: e47a7276c68ac19409df772d3fe0c967
     layerID: 22
-    mosaicPosition: {x: 171, y: 4}
+    mosaicPosition: {x: 4, y: 376}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -8912,7 +8919,7 @@ ScriptedImporter:
     parentIndex: 0
     spriteID: 7da3c67f12973b047a0baa1777c58b0f
     layerID: 21
-    mosaicPosition: {x: 332, y: 4}
+    mosaicPosition: {x: 738, y: 4}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -8922,7 +8929,7 @@ ScriptedImporter:
     parentIndex: 0
     spriteID: 82b2780a7e1fc0a41accb0cc4eaa4dcf
     layerID: 20
-    mosaicPosition: {x: 171, y: 242}
+    mosaicPosition: {x: 406, y: 376}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -8932,7 +8939,7 @@ ScriptedImporter:
     parentIndex: 0
     spriteID: fd3589e7ce4869e41acac841bf10b6ae
     layerID: 19
-    mosaicPosition: {x: 332, y: 216}
+    mosaicPosition: {x: 533, y: 376}
     flatten: 0
     isImported: 1
     isVisible: 1

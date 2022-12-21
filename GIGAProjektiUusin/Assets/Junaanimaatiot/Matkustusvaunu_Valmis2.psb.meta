@@ -47,6 +47,7 @@ ScriptedImporter:
     flipbookRows: 0
     flipbookColumns: 0
     ignorePngGamma: 0
+    cookieMode: 0
     filterMode: 1
     aniso: 1
     mipBias: 0
@@ -89,6 +90,7 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: Rengas_4
@@ -900,7 +902,8 @@ ScriptedImporter:
     - {x: 0, y: 69}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 349, y: 4}
+    uvTransform: {x: 1262, y: 4}
+    spritePosition: {x: 913, y: 0}
   - name: Rengas_3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1710,7 +1713,8 @@ ScriptedImporter:
     - {x: 0, y: 69}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 704, y: 3}
+    uvTransform: {x: 1408, y: 4}
+    spritePosition: {x: 704, y: 1}
   - name: Rengas_2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2520,7 +2524,8 @@ ScriptedImporter:
     - {x: 0, y: 69}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1094, y: 3}
+    uvTransform: {x: 1554, y: 4}
+    spritePosition: {x: 460, y: 1}
   - name: Rengas_1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3330,7 +3335,8 @@ ScriptedImporter:
     - {x: 0, y: 69}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 1476, y: 3}
+    uvTransform: {x: 1700, y: 4}
+    spritePosition: {x: 224, y: 1}
   - name: Cabin
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -6120,7 +6126,8 @@ ScriptedImporter:
     - {x: 219, y: 0}
     tessellationDetail: 0
     parentGroupIndex: -1
-    uvTransform: {x: 4, y: -27}
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 31}
   characterData:
     bones:
     - name: Rengas_1
